@@ -1,0 +1,6 @@
+@PeakEyeBackendCase_HostAddress = http://localhost:5180
+
+GET {{PeakEyeBackendCase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
